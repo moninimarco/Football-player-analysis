@@ -5,7 +5,7 @@ The code compares the stats of **Matias Soulé** (Frosinone right wing, on loan 
 
 Under this view, a **radar chart** has been developed by considering only Serie A's footballers with more than 450 minutes played. A normalization per 90 mins has been applied across the stats.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Soulé Post](https://www.linkedin.com/feed/update/urn:li:activity:7125095811394199552/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Soulé Post](https://www.linkedin.com/feed/update/urn:li:activity:7125095811394199552/) my considerations
 
 ## Data
 The dataset has been provided by the advanced platform of [Soccerment](https://xvalue.ai/?_gl=1*x7nmmk*_ga*Nzk0MDgyMDMwLjE3MDY4MDAyNDE.*_ga_B21ZJ6LXBP*MTcwNjgwMDI0Mi4xLjAuMTcwNjgwMDI0Mi42MC4wLjA.) and it considers the first 10 games of SerieA league - season 2023/2024.
